@@ -4,3 +4,6 @@
 [submodule "CRUD-service"]
 	path = CRUD-service
 	url = https://github.com/SumitChavan1498/CRUD-service
+[submodule "EMS-Angular"]
+	path = EMS-Angular
+	url = https://github.com/SumitChavan1498/EMS-Angular
