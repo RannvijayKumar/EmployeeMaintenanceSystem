@@ -1,3 +1,6 @@
 [submodule "leave-service"]
 	path = leave-service
 	url = https://github.com/RannvijayKumar/leave-service
+[submodule "CRUD-service"]
+	path = CRUD-service
+	url = https://github.com/SumitChavan1498/CRUD-service
