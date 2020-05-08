@@ -7,3 +7,6 @@
 [submodule "EMS-Angular"]
 	path = EMS-Angular
 	url = https://github.com/SumitChavan1498/EMS-Angular
+[submodule "login-service"]
+	path = login-service
+	url = https://github.com/ManishJawage/login-service
